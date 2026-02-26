@@ -1,3 +1,6 @@
+
+????????? james????
+
 <div align="center">
   <img src="static/favicon.png" width="200px" height="auto" />
   <h1>kebabOS v0.3.0</h1>
