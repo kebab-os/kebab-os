@@ -51,6 +51,7 @@ The browser app requires a Chromium-based browser (Google Chrome, Microsoft Edge
 
 Event Routing: The kernel automatically sends `KEYDOWN` and `MOUSEWHEEL` events to the top-most (active) window.
 Clipping: Content is rendered using `surface.set_clip()` to prevent UI overlap during resizing or scrolling.
+[Learn how to create applications.](docs/Custom_Apps.md)
 
 
 ## License
