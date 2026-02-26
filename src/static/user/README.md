@@ -1,6 +1,6 @@
 ## `static/user`
 
-**This directory contains all the customisable, user file.**
+**This directory contains all the customisable, user files.**
 
 ---
 
