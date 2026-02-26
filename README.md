@@ -25,7 +25,7 @@ pip install pygame requests html2image
 
 ### Linux Users
 
-If you are on a Linux distribution, you must also install #xclip# to enable the clipboard (copy/paste) functionality:
+If you are on a Linux distribution, you must also install `xclip` to enable the clipboard (copy/paste) functionality:
 
 ```bash
 sudo apt-get install xclip
