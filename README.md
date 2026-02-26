@@ -57,3 +57,9 @@ Clipping: Content is rendered using `surface.set_clip()` to prevent UI overlap d
 ## License
 
 kebabOS is under the [MIT License](LICENSE).
+
+<div align="right">
+<sub>
+  &copy; kebab 2026
+</sub>
+</div>
