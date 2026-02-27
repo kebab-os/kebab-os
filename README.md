@@ -31,9 +31,8 @@ If you are on a Linux distribution, you must also install `xclip` to enable the 
 sudo apt-get install xclip
 ```
 
-## Browser Engine
-
-The browser app requires a Chromium-based browser (Google Chrome, Microsoft Edge, or Chromium) installed on your system to render webpage graphics
+> [!IMPORTANT]
+> The browser app requires a Chromium-based browser (Google Chrome, Microsoft Edge, or Chromium) installed on your system to render webpage graphics
 
 
 ## Controls & Usage
