@@ -35,6 +35,11 @@ sudo apt-get install xclip
 > The browser app requires a Chromium-based browser (Google Chrome, Microsoft Edge, or Chromium) installed on your system to render webpage graphics
 
 
+## Documentation
+
+Find the full documentation for kebabOS in [the docs directory](docs).
+
+
 ## Controls & Usage
 
 **Action	Control:**
