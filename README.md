@@ -15,29 +15,12 @@
 - Persistence: Saves your pinned apps and settings to `storage/data.json`.
 
 
-## Required Installations
-
-Before running the OS, you must install the following dependencies via PyPI:
-
-```bash
-pip install pygame requests html2image
-```
-
-### Linux Users
-
-If you are on a Linux distribution, you must also install `xclip` to enable the clipboard (copy/paste) functionality:
-
-```bash
-sudo apt-get install xclip
-```
-
-> [!IMPORTANT]
-> The browser app requires a Chromium-based browser (Google Chrome, Microsoft Edge, or Chromium) installed on your system to render webpage graphics
-
-
 ## Documentation
 
 Find the full documentation for kebabOS in [the docs directory](docs).
+
+> [!IMPORTANT]
+> The browser app requires a Chromium-based browser (Google Chrome, Microsoft Edge, or Chromium) installed on your system to render webpage graphics
 
 
 ## Controls & Usage
