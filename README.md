@@ -17,7 +17,7 @@
 
 ## Documentation
 
-Find the full documentation for kebabOS in [the docs directory](docs).
+Find the GUI docs for kebabOS in [the docs directory](docs), or read the full documentation at [docs.kebabos.me](https://docs.kebabos.me).
 
 > [!IMPORTANT]
 > The browser app requires a Chromium-based browser (Google Chrome, Microsoft Edge, or Chromium) installed on your system to render webpage graphics
